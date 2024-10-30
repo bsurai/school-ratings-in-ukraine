@@ -1,6 +1,6 @@
-[< Усі рейтинги](https://github.com/bsurai/school-ratings-in-ukraine/blob/main/README.md)
+<a href="https://github.com/bsurai/school-ratings-in-ukraine/blob/main/README.md">< Усі рейтинги</a>
 
-# Топ-200 шкіл України по результатами НМТ з біології 2024 року
+<h1>Топ-200 шкіл України по результатами НМТ з біології 2024 року</h1>
 
 Рейтинг зосереджений на STEM-освіті (математика, фізика, хімія, біологія) та формується на основі відкритих [даних УЦОЯО](https://zno.testportal.com.ua/opendata).
 
