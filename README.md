@@ -4,5 +4,6 @@
 
 ## 2024 рік
 - [Математика Топ-200](https://github.com/bsurai/school-ratings-in-ukraine/blob/main/2024/math.md)
+- [Фізика Топ-200](https://github.com/bsurai/school-ratings-in-ukraine/blob/main/2024/physics.md)
 - [Хімія Топ-200](https://github.com/bsurai/school-ratings-in-ukraine/blob/main/2024/chemistry.md)
 - [Біологія Топ-200](https://github.com/bsurai/school-ratings-in-ukraine/blob/main/2024/biology.md)
