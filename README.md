@@ -7,10 +7,21 @@
 <h2>2024 рік</h2>
 <p>
     <ul>
-        <li><a href="https://github.com/bsurai/school-ratings-in-ukraine/blob/main/2024/ukraine-stem.md">Україна STEM Топ-200</a></li>
+        <li><a href="https://github.com/bsurai/school-ratings-in-ukraine/blob/main/2024/ukraine-stem.md">Україна STEM Топ-200<a></li>
         <li><a href="https://github.com/bsurai/school-ratings-in-ukraine/blob/main/2024/math.md">Математика Топ-200</a></li>
         <li><a href="https://github.com/bsurai/school-ratings-in-ukraine/blob/main/2024/physics.md">Фізика Топ-200</a></li>
         <li><a href="https://github.com/bsurai/school-ratings-in-ukraine/blob/main/2024/chemistry.md">Хімія Топ-200</a></li>
         <li><a href="https://github.com/bsurai/school-ratings-in-ukraine/blob/main/2024/biology.md">Біологія Топ-200</a></li>
+    </ul>
+</p>
+
+<h2>2023 рік</h2>
+<p>
+    <ul>
+        <li><a href="https://github.com/bsurai/school-ratings-in-ukraine/blob/main/2023/ukraine-stem.md">Україна STEM Топ-200<a></li>
+        <li><a href="https://github.com/bsurai/school-ratings-in-ukraine/blob/main/2023/math.md">Математика Топ-200</a></li>
+        <li><a href="https://github.com/bsurai/school-ratings-in-ukraine/blob/main/2023/physics.md">Фізика Топ-200</a></li>
+        <li><a href="https://github.com/bsurai/school-ratings-in-ukraine/blob/main/2023/chemistry.md">Хімія Топ-200</a></li>
+        <li><a href="https://github.com/bsurai/school-ratings-in-ukraine/blob/main/2023/biology.md">Біологія Топ-200</a></li>
     </ul>
 </p>
