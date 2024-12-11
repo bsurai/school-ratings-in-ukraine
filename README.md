@@ -13,6 +13,7 @@
         <li><a href="https://github.com/bsurai/school-ratings-in-ukraine/blob/main/2024/chemistry.md">Хімія Топ-200</a></li>
         <li><a href="https://github.com/bsurai/school-ratings-in-ukraine/blob/main/2024/biology.md">Біологія Топ-200</a></li>
     </ul>
+    <a href="https://github.com/bsurai/school-ratings-in-ukraine/blob/main/2024/subject-corelations.md">Кореляція між предметами</a></li>
 </p>
 
 <h2>2023 рік</h2>
